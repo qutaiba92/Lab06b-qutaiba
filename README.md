@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## How Your Computer Work?
+### Computer is ?
+Machine help us to do thinking work and slove equations 
+### Computer Componante
+- Input
+you can tell the computer to do with keyboard,mouse ..etc (physical action convert ot binary information)
+- Storage
+the memmory of Computer which is sotore all information
+- Processing (CPU)
+the action doing depanding on the input and storage
+- Output
+the result of processing the input ( convert information to physical action)
+### How it's work
+the computer from inside is full of wires and circuits which is carry all the information of the computer
+ #### system used in the computer
+ - the binary number system 01 digits which can read
+1- all number according to it's value 
+2- words according to it's value 
+3- video,image cause it's shows pictures which full of color and each color have words and each words have value in binary number
+4- sounds
+### Circuit and logic
+in order to complain the input signals using million of tiny electronic component which work together to form Circuit
+ 
+## Hardware
+example : circutis, stuff, plug , speakers, chips and wires 
+## Software
+all programm and codes inside the computer
+example: games , maps, creative, analysis , App and website
 
-You can use the [editor on GitHub](https://github.com/qutaiba92/Lab06b-qutaiba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qutaiba92/Lab06b-qutaiba/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
